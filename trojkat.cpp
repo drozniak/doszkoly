@@ -7,7 +7,7 @@
 #define _____ "Podaj b: "
 #define ______ "Podaj c: "
 #define _____________ "Obwod trojkata o bokach " << _______ << ", " << ________ << " i " << _________ << " to " <<
-#define ______________ <<(char)10;};
+#define ______________ <<(char)10;return 0;};
 #define _______________ ;
 #define ________________ ,
 #define _________________ +
